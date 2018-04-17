@@ -1,4 +1,4 @@
-# Traffic-sign-identifier
+# Traffic Sign Identifier
  
 Used German Traffic Sign data set (GTSRB).
 - Single-image, multi-class classification problem.
